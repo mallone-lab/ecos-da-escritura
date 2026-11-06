@@ -1,0 +1,10 @@
+JONAS — o homem que fugiu de Deus · Ecos da Escritura
+Texto: paráfrase de Jonas 1–4 (narração original, citações curtas de Jonas 2:2 e 2:9).
+
+Imagem: pintada inteiramente em código (pintura a óleo com espátula), sem imagens geradas, fotos ou vídeos de banco.
+  Motor de pintura engine/impasto.js e engine/plate.js — da biblioteca Lemo-Opuscar (LemoLab), licença MIT (ver LICENSE da biblioteca).
+Voz: Microsoft Edge neural TTS (edge-tts), voz pt-BR-AntonioNeural — verifique os termos de uso da Microsoft para uso comercial.
+Música: composição original renderizada em código (core/audio/sampler.py).
+  Samples (CC0): VS Chamber Orchestra: Community Edition (Versilian Studios); Versilian Community Sample Library (Versilian Studios).
+Efeitos sonoros: sintetizados em código (mix.py).
+Fonte: Cormorant Garamond — Copyright 2015 the Cormorant Project Authors, SIL Open Font License 1.1 (fonts/OFL.txt).

@@ -1,0 +1,43 @@
+[
+ {
+  "id": "l01",
+  "text": "Um mar à frente. Um exército atrás. Nenhuma saída."
+ },
+ {
+  "id": "l02",
+  "text": "Depois de 430 anos de escravidão, o povo de Israel finalmente saiu do Egito.",
+  "subs": [
+   "Depois de 430 anos de escravidão,",
+   "o povo de Israel finalmente saiu do Egito."
+  ],
+  "say": "Depois de quatrocentos e trinta anos de escravidão, o povo de Israel finalmente saiu do Egito."
+ },
+ {
+  "id": "l03",
+  "text": "Mas o faraó mudou de ideia e mandou seus carros de guerra atrás deles."
+ },
+ {
+  "id": "l04",
+  "text": "Encurralado diante do mar Vermelho, o povo gritou de medo."
+ },
+ {
+  "id": "l05",
+  "text": "Moisés respondeu: não temam. O Senhor lutará por vocês."
+ },
+ {
+  "id": "l06",
+  "text": "Ele estendeu a mão sobre o mar, e o Senhor abriu as águas a noite toda."
+ },
+ {
+  "id": "l07",
+  "text": "E o povo atravessou em terra seca, com muralhas de água dos dois lados."
+ },
+ {
+  "id": "l08",
+  "text": "Quando não há caminho, Deus abre um. E você? Qual mar está diante de você hoje?",
+  "subs": [
+   "Quando não há caminho, Deus abre um.",
+   "E você? Qual mar está diante de você hoje?"
+  ]
+ }
+]
